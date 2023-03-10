@@ -6,15 +6,15 @@ Notes regarding important information about Python
 
 ### -----------------> Basic commands in the terminal
 
-*type* => to see the content of a file. Is the windows version of "cat" command with Linux
+==type== => to see the content of a file. Is the windows version of "cat" command with Linux
 ```
 C:\Users\acer\Documents> type hello_world.py
 
 ```py
 
-*python* => to enter to the python interpreter and to execute a python file
-*exit()* => to exit to the python interpreter
-*Import a file a use its function* => pretty simple example of how to import and use functions:
+==python== => to enter to the python interpreter and to execute a python file
+==exit()== => to exit to the python interpreter
+==Import a file a use its function== => pretty simple example of how to import and use functions:
 
 ```
 C:\Users\acer\Documents> type areas.py
