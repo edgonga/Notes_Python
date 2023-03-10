@@ -12,7 +12,7 @@ C:\Users\acer\Documents> type hello_world.py
 
 ```py
 
-==python== => to enter to the python interpreter and to execute a python file
+"=="python"==" => to enter to the python interpreter and to execute a python file
 ==exit()== => to exit to the python interpreter
 ==Import a file a use its function== => pretty simple example of how to import and use functions:
 
