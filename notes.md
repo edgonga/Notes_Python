@@ -10,7 +10,7 @@ __type__ => to see the content of a file. Is the windows version of "cat" comman
 ```
 C:\Users\acer\Documents> type hello_world.py
 
-```py
+```
 
 __python__ => to enter to the python interpreter and to execute a python file
 __exit()__ => to exit to the python interpreter
@@ -38,4 +38,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 248.84555409084754
 >>> round(areas.circle(8.9), 2)
 248.85
-```py
+```
