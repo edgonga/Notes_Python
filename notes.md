@@ -12,9 +12,9 @@ C:\Users\acer\Documents> type hello_world.py
 
 ```py
 
-"=="python"==" => to enter to the python interpreter and to execute a python file
-==exit()== => to exit to the python interpreter
-==Import a file a use its function== => pretty simple example of how to import and use functions:
+__python__ => to enter to the python interpreter and to execute a python file
+__exit()__ => to exit to the python interpreter
+__Import a file a use its function__ => pretty simple example of how to import and use functions:
 
 ```
 C:\Users\acer\Documents> type areas.py
