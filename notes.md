@@ -6,7 +6,7 @@ Notes regarding important information about Python
 
 ### -----------------> Basic commands in the terminal
 
-==type== => to see the content of a file. Is the windows version of "cat" command with Linux
+__type__ => to see the content of a file. Is the windows version of "cat" command with Linux
 ```
 C:\Users\acer\Documents> type hello_world.py
 
